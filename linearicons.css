@@ -1,7 +1,7 @@
 @font-face {
     font-family: 'Linearicons';
-    src: url('../fonts/Linearicons.eot?fgpewa');
-    src: url('../fonts/Linearicons.eot?fgpewa#iefix') format('embedded-opentype'), url('../fonts/Linearicons.ttf?fgpewa') format('truetype'), url('../fonts/Linearicons.woff?fgpewa') format('woff'), url('../fonts/Linearicons.svg?fgpewa#Linearicons') format('svg');
+    src: url('/fonts/Linearicons.eot?fgpewa');
+    src: url('/fonts/Linearicons.eot?fgpewa#iefix') format('embedded-opentype'), url('/fonts/Linearicons.ttf?fgpewa') format('truetype'), url('/fonts/Linearicons.woff?fgpewa') format('woff'), url('/fonts/Linearicons.svg?fgpewa#Linearicons') format('svg');
     font-weight: normal;
     font-style: normal;
 }
